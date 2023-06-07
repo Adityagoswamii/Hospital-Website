@@ -1,2 +1,4 @@
-# Hospital-Website
-Hospital websites play a vital role in providing essential information and services to patients, their families, healthcare professionals, and the general public.
+# Hospital-Management-Html
+A decent Hospital Management System which is created using Html, css and Bootstrap.
+
+https://prashantsharma3.github.io/My-Health/
